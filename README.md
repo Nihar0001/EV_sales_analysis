@@ -1,4 +1,4 @@
-# EV_sales_analysis
+# --- EV_sales_analysis --- 
 
 ## Project Overview
 
@@ -35,7 +35,7 @@ The customer segmentation was performed using K-Means clustering, following thes
 
 ## Key Findings and Recommendations
 
-### 📊 Key Findings (Age & Income Focus)
+### 📊 Key Findings (Age & Income Focused)
 
 The clustering analysis reveals distinct customer segments in the Indian EV market when projected onto **Age vs. Income**:
 
@@ -48,7 +48,7 @@ The clustering analysis reveals distinct customer segments in the Indian EV mark
 - ⚠️ **Lower Adoption Likelihood**:  
   Customers below **25 years** or with **income < ₹3L annually** are less suitable due to affordability constraints.
 
-### ✅ Strategic Recommendations (Shortened)
+### ✅ Strategic Recommendations 
 
 - **Target Age 30–60 & Income ₹6–15L** with affordable EV models, financing options, and city-oriented features.
 - **Focus Metro Cities** like Bangalore, Pune, and Delhi with campaigns aimed at urban professionals and families.
